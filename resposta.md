@@ -9,3 +9,13 @@ R- Guilherme Gabriel Moura da Silva
 
 3. Qual palavra em Javascript é usada para criar uma função?
 R- function
+
+
+1. informe abaixo seu nome completo:
+ R- Leonardo Aragão Magalhães filho
+
+2.converta os números abaixo para a letra correspondente do alfabeto e diga qual o codigo (00 representa espaço):
+R-bakugan e ruim 
+
+3. qual palavra em Javascript é usada para criar uma função?
+4. R-function
